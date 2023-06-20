@@ -354,7 +354,7 @@ b, strong {
 .timeline-info {
   display: inline-block;
   vertical-align: middle;
-  max-width: 432px;
+  max-width: 500px;
   margin-left: 4em;
 }
 .timeline-info small {
